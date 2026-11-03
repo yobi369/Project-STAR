@@ -1,0 +1,10 @@
+{
+  "name": "Project STAR: Axiom Protocol",
+  "description": "Next-generation C4ISR AI command environment for Kenya Defence Forces. Real-time mission forecasting, multi-domain threat tracking, grounded OSINT intelligence, and tactical COA strategic advisory.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
